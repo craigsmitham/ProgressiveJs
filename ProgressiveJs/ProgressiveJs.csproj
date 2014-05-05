@@ -61,7 +61,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="monkey-businessman.jpg" />
+    <Content Include="progressivejs.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
