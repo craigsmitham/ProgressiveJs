@@ -6,13 +6,13 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/longpshorn/ProgressiveJs/master/license.txt</licenseUrl>
     <projectUrl>https://github.com/longpshorn/ProgressiveJs</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/longpshorn/ProgressiveJs/master/ProgressiveJs/progressivejs.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial release. Basic functionality for testing purposes.</releaseNotes>
     <copyright>Copyright 2014</copyright>
-    <tags>ajax javascript progressive-enhancement</tags>
+    <tags>ajax javascript</tags>
   </metadata>
 </package>
