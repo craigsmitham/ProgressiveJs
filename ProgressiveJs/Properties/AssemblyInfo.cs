@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProgressiveJs.net")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ProgressiveJs")]
+[assembly: AssemblyDescription("A library to simplify the creation of progressively enhanced ajax web applications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProgressiveJs.net")]
+[assembly: AssemblyCompany("Patrick J. Smith")]
+[assembly: AssemblyProduct("ProgressiveJs")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
