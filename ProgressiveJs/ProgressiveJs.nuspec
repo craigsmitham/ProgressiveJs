@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://raw.githubusercontent.com/longpshorn/ProgressiveJs/master/license.txt</licenseUrl>
     <projectUrl>https://github.com/longpshorn/ProgressiveJs</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/longpshorn/ProgressiveJs/master/ProgressiveJs/progressivejs.jpg</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/longpshorn/ProgressiveJs/master/progressivejs.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial release. Basic functionality for testing purposes.</releaseNotes>

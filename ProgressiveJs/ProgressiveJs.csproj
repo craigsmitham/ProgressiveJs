@@ -47,7 +47,8 @@
   <ItemGroup>
     <Compile Include="Client\AjaxForm.cs" />
     <Compile Include="Client\AjaxUpdater.cs" />
-    <Compile Include="Helpers\JsonNetExtensions.cs" />
+    <Compile Include="Extensions\ControllerExtensions.cs" />
+    <Compile Include="Extensions\JsonNetExtensions.cs" />
     <Compile Include="Helpers\JsonNetResult.cs" />
     <Compile Include="Server\AlertMessage.cs" />
     <Compile Include="Client\Callback.cs" />
@@ -59,9 +60,6 @@
     <Compile Include="Server\JsonAjaxResult.cs" />
     <Compile Include="JsonNetSerializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="progressivejs.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

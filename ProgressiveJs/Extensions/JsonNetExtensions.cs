@@ -1,6 +1,7 @@
-﻿using System.Web.Mvc;
+﻿using ProgressiveJs.Helpers;
+using System.Web.Mvc;
 
-namespace ProgressiveJs.Helpers
+namespace ProgressiveJs.Extensions
 {
     public static class JsonNetExtensions
     {
